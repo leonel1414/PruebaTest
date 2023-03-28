@@ -1,0 +1,27 @@
+h1{
+    color: cadetblue;
+}
+
+button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    margin-top: 4px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.boxSuma{
+    background-color: beige;
+    padding-left: 0px;
+    padding-bottom: 3px;
+    margin-bottom: 10%;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
